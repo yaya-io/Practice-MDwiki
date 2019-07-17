@@ -7,6 +7,7 @@
 
 ## GitHubリポジトリで管理しています
 * GitHubリポジトリで管理しています
+[yaya\-io/Practice\-MDwiki: MDWikiサンプルリポジトリ](https://github.com/yaya-io/Practice-MDwiki)
 
 ## GitHub Pagesでホスティングしてます
 
